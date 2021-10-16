@@ -8,7 +8,7 @@ namespace StartListe
 {
     class Registration
     {
-        public string wholeLine { get; private set; }
+        public string WholeLine { get; private set; }
         public string StartNum { get; private set; }
         public string Name { get; private set; }
         public string Club { get; private set; }
@@ -17,8 +17,8 @@ namespace StartListe
         public string Classen { get; private set; }
         public Registration(string line)
         {
-            wholeLine = line;
-            var fields = wholeLine.Split(",");
+            WholeLine = line;
+            var fields = WholeLine.Split(",");
             StartNum = fields[0];
             Name = fields[1];
             Club = fields[2];
