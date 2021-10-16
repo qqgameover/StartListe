@@ -1,0 +1,1 @@
+Start number: "507", name: "Simen Færevaag Fredriksen", club: "Swedbank", nationality: "NOR", group: "54 km / Pulje 2 (seeding + top 100 kvinner)", class: "M25-29"

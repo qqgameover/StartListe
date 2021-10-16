@@ -1,0 +1,1 @@
+Start number: "1943", name: "Eivind Netland", club: "Lett&Fin - SuperOffice", nationality: "NOR", group: "54 km / Pulje 7 (seeding)", class: "M30-34"

@@ -1,0 +1,1 @@
+Start number: "10044", name: "Sindre Bjørnestad Skar", club: "Bærums Verk If", nationality: "NOR", group: "25 km / Pulje 1 (seeding)", class: "M25-29"

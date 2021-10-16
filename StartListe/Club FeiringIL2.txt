@@ -1,0 +1,1 @@
+Start number: "765", name: "Aasmund Bjørnstad", club: "Feiring IL", nationality: "NOR", group: "54 km / Pulje 3 (seeding)", class: "M60-64"

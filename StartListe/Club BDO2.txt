@@ -1,0 +1,1 @@
+Start number: "2281", name: "Pia Moan Hasselknippe", club: "BDO", nationality: "NOR", group: "54 km / Pulje 8 (seeding)", class: "K30-34"

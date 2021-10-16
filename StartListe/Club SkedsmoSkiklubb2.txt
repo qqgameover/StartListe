@@ -1,0 +1,1 @@
+Start number: "21120", name: "Christian Fredrik Staib", club: "Skedsmo Skiklubb", nationality: "NOR", group: "25 km / Pulje 4 (seeding)", class: "M16-19"

@@ -1,0 +1,1 @@
+Start number: "131", name: "Tommy Clementz", club: "Svea Finans", nationality: "NOR", group: "54 km / Pulje 1 (seeding)", class: "M35-39"

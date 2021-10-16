@@ -1,0 +1,1 @@
+Start number: "998", name: "Tor Øyvind Lislerud", club: "Brynehein Stakerlag / NHN", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M45-49"

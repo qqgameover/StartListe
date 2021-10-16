@@ -1,0 +1,1 @@
+Start number: "756", name: "Vegard Solhaug", club: "Søndre Ål Sportsklubb", nationality: "NOR", group: "54 km / Pulje 3 (seeding)", class: "M30-34"

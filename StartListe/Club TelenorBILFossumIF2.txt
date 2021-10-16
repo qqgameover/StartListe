@@ -1,0 +1,1 @@
+Start number: "38", name: "Sverre Holt", club: "Telenor BIL/Fossum IF", nationality: "NOR", group: "54 km / Pulje 1 (seeding)", class: "M45-49"

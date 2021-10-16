@@ -1,0 +1,1 @@
+Start number: "511", name: "Ingeborg Dahl", club: "Ringkollen Skiklubb", nationality: "NOR", group: "54 km / Pulje 2 (seeding + top 100 kvinner)", class: "K30-34"

@@ -1,0 +1,1 @@
+Start number: "2276", name: "Svein Venjum", club: "UiOBil", nationality: "NOR", group: "54 km / Pulje 8 (seeding)", class: "M45-49"

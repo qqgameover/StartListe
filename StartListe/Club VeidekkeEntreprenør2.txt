@@ -1,0 +1,1 @@
+Start number: "30122", name: "Sverre Flem", club: "Veidekke Entreprenør", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M30-34"

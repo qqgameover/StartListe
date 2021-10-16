@@ -1,0 +1,1 @@
+Start number: "10029", name: "Torbjørn Eika", club: "RØA IL / SSB IF", nationality: "NOR", group: "25 km / Pulje 1 (seeding)", class: "M55-59"

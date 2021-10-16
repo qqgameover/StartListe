@@ -1,0 +1,1 @@
+Start number: "1928", name: "Robert Skar", club: "Sparebank1 Forsikring", nationality: "NOR", group: "54 km / Pulje 7 (seeding)", class: "M45-49"

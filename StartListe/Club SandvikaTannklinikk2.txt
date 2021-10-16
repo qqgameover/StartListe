@@ -1,0 +1,1 @@
+Start number: "1638", name: "Are Skaar Helling", club: "Sandvika Tannklinikk", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M45-49"

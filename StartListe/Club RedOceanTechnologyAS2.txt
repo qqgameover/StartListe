@@ -1,0 +1,1 @@
+Start number: "30094", name: "Tarjei Utnes", club: "Red Ocean Technology AS", nationality: "NOR", group: "25 km / Pulje 5 (seeding)", class: "M35-39"

@@ -1,0 +1,1 @@
+Start number: "10046", name: "Inger Lise Aamodt", club: "Koll IL", nationality: "NOR", group: "25 km / Pulje 1 (seeding)", class: "K45-49"

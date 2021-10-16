@@ -1,0 +1,1 @@
+Start number: "1318", name: "Tom Tollefsen", club: "Statoil", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M55-59"

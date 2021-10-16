@@ -1,0 +1,1 @@
+Start number: "1349", name: "Per Kristian Aamlid", club: "Arne Blystad AS", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M60-64"

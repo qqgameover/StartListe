@@ -1,0 +1,1 @@
+Start number: "2540", name: "Leiv Peter Løvold", club: "Oppsal IF", nationality: "NOR", group: "54 km / Pulje 9 (seeding)", class: "M45-49"

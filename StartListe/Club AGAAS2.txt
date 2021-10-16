@@ -1,0 +1,1 @@
+Start number: "2404", name: "Tor Husebø", club: "AGA AS", nationality: "NOR", group: "54 km / Pulje 9 (seeding)", class: "M55-59"

@@ -1,0 +1,1 @@
+Start number: "20100", name: "Sofie Skorve Andreassen", club: "Heggedal IL", nationality: "NOR", group: "25 km / Pulje 3 (seeding)", class: "K16-19"

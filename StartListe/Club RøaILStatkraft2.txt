@@ -1,0 +1,1 @@
+Start number: "385", name: "Frode Røttingen", club: "Røa IL / Statkraft", nationality: "NOR", group: "54 km / Pulje 2 (seeding + top 100 kvinner)", class: "M45-49"

@@ -1,0 +1,2 @@
+Start number: "1542", name: "Terje Tysvær", club: "Statoil BIL", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M60-64"
+Start number: "1064", name: "Eirik Byklum", club: "Statoil BIL", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M45-49"

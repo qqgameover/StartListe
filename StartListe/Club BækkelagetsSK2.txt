@@ -1,0 +1,1 @@
+Start number: "32", name: "Espen Tobiasson", club: "Bækkelagets SK", nationality: "NOR", group: "54 km / Pulje 1 (seeding)", class: "M30-34"

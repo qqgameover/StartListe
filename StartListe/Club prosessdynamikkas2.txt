@@ -1,0 +1,1 @@
+Start number: "1077", name: "Einar Bruneau", club: "prosess dynamikk as", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M55-59"

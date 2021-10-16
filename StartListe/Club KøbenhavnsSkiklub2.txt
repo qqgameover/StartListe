@@ -1,0 +1,2 @@
+Start number: "4698", name: "Bo Normander", club: "Københavns Skiklub", nationality: "DEN", group: "54 km / Pulje 12 (åpen start)", class: "M45-49"
+Start number: "4699", name: "Jacob Sørensen", club: "Københavns Skiklub", nationality: "DEN", group: "54 km / Pulje 12 (åpen start)", class: "M45-49"

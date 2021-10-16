@@ -1,0 +1,1 @@
+Start number: "50112", name: "Madeleine Brandt", club: "Multiconsult", nationality: "NOR", group: "25 km / Pulje 8 (åpen start)", class: "K25-29"

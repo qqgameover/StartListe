@@ -1,0 +1,1 @@
+Start number: "21108", name: "Christina A. Frost", club: "Sandøya IL", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "K35-39"

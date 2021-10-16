@@ -1,0 +1,1 @@
+Start number: "997", name: "Simen Tollersrud", club: "Team Baker Hansen", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M30-34"

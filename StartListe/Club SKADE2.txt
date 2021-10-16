@@ -1,0 +1,2 @@
+Start number: "21100", name: "Stina Hofgaard Røsjø", club: "SKADE", nationality: "NOR", group: "25 km / Pulje 4 (seeding)", class: "K35-39"
+Start number: "21099", name: "Bitte Heje", club: "SKADE", nationality: "NOR", group: "25 km / Pulje 4 (seeding)", class: "K35-39"

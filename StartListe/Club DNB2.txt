@@ -1,0 +1,1 @@
+Start number: "1356", name: "Jonas Rogne", club: "DNB", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M25-29"

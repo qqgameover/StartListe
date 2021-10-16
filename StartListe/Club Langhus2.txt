@@ -1,0 +1,1 @@
+Start number: "1527", name: "Kjetil Berntsen", club: "Langhus", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M50-54"

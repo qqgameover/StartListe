@@ -1,0 +1,3 @@
+Start number: "2124", name: "Erik Furseth", club: "Røa IL", nationality: "NOR", group: "54 km / Pulje 8 (seeding)", class: "M50-54"
+Start number: "1653", name: "Torgeir Esmann", club: "Røa IL", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M40-44"
+Start number: "1956", name: "Frida Dale", club: "Røa IL", nationality: "NOR", group: "54 km / Pulje 7 (seeding)", class: "K40-44"

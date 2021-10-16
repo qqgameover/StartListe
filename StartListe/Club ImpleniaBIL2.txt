@@ -1,0 +1,1 @@
+Start number: "408", name: "Anette Kleppestø", club: "Implenia BIL", nationality: "NOR", group: "54 km / Pulje 2 (seeding + top 100 kvinner)", class: "K25-29"

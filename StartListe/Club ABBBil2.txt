@@ -1,0 +1,1 @@
+Start number: "1661", name: "Ole-Jacob Foss", club: "ABB Bil", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M50-54"

@@ -1,0 +1,1 @@
+Start number: "90052", name: "Kjersti Myhra", club: "Hyggen IF", nationality: "NOR", group: "25 km / Pulje 5 (seeding)", class: "K40-44"

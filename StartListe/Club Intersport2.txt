@@ -1,0 +1,1 @@
+Start number: "1652", name: "Pål Heldrup Rasmussen", club: "Intersport", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M50-54"

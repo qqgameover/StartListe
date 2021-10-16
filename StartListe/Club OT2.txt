@@ -1,0 +1,1 @@
+Start number: "50117", name: "Baard Schartum Liseth", club: "O.T.", nationality: "NOR", group: "25 km / Pulje 8 (åpen start)", class: "M65-69"

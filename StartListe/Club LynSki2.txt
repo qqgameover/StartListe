@@ -1,0 +1,2 @@
+Start number: "2284", name: "Erik Libæk", club: "Lyn Ski", nationality: "NOR", group: "54 km / Pulje 8 (seeding)", class: "M45-49"
+Start number: "90095", name: "Emma Hodne", club: "Lyn Ski", nationality: "NOR", group: "25 km / Pulje 3 (seeding)", class: "K13-15"

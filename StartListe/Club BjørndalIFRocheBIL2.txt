@@ -1,0 +1,1 @@
+Start number: "305", name: "Liv-Janne Øvrebust", club: "Bjørndal IF/ Roche BIL", nationality: "NOR", group: "54 km / Pulje 2 (seeding + top 100 kvinner)", class: "K45-49"

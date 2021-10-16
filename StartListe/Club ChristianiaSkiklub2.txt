@@ -1,0 +1,1 @@
+Start number: "2870", name: "Einar Nørgaard", club: "Christiania Skiklub", nationality: "NOR", group: "", class: "M60-64"

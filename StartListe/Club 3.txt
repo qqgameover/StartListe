@@ -1,0 +1,1 @@
+Start number: "388", name: "Kim Martin Kjeve", club: ".", nationality: "NOR", group: "54 km / Pulje 2 (seeding + top 100 kvinner)", class: "M35-39"

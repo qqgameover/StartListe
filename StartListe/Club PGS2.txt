@@ -1,0 +1,1 @@
+Start number: "1312", name: "Erling Moen Synnes", club: "PGS", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M50-54"

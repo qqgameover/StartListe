@@ -1,0 +1,1 @@
+Start number: "1575", name: "Magnar Lillegård", club: "SSB", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M50-54"

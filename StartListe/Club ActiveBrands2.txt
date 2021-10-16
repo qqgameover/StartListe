@@ -1,0 +1,1 @@
+Start number: "338", name: "Simon Andreas Haugen", club: "Active Brands", nationality: "NOR", group: "54 km / Pulje 2 (seeding + top 100 kvinner)", class: "M30-34"

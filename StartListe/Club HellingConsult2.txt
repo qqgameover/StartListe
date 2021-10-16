@@ -1,0 +1,1 @@
+Start number: "1666", name: "Per Edvard Helling", club: "Helling Consult", nationality: "NOR", group: "", class: "M35-39"

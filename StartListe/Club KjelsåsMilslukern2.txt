@@ -1,0 +1,1 @@
+Start number: "497", name: "Unni Persson Moseby", club: "Kjelsås/Milsluker''n", nationality: "NOR", group: "54 km / Pulje 2 (seeding + top 100 kvinner)", class: "K50-54"

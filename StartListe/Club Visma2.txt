@@ -1,0 +1,1 @@
+Start number: "30121", name: "Victoria Ernstsen", club: "Visma", nationality: "NOR", group: "25 km / Pulje 5 (seeding)", class: "K25-29"

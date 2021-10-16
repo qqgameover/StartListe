@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 
 namespace StartListe
 {
@@ -15,23 +16,44 @@ namespace StartListe
             var clubList = new List<Club>();
             for (var index = 0; index < lines.Length; index++)
             {
-                if(index == 0) continue;
+                if (index == 0) continue;
                 var line = lines[index];
-                var splitLine = line.Split(",");
-                if (splitLine[2].Length <= 2) continue;
-                clubList.Add(new Club(splitLine[2]));
+                var registration = new Registration(line);
+                registrationsList.Add(registration);
+                var club = clubList.SingleOrDefault(c => c.ClubName == registration.Club.Trim());
+                if (club == null)
+                {
+                    club = new Club(registration.Club);
+                    clubList.Add(club);
+                }
+
+                club.AddRegistration(registration);
             }
 
-            foreach (var line in lines)
+            foreach (var p in registrationsList)
             {
-                registrationsList.Add(new Registration(line));
+                Console.WriteLine(p.Name + p.Club);
             }
-            var duplicates = clubList
-                .GroupBy(i => i.ClubName)
-                .Where(g => g.Count() > 1)
-                .Select(g => g.Key);
-            foreach (var d in duplicates)
-                Console.WriteLine(d);
+
+            foreach (var club in clubList)
+            {
+                var stringBuilder = new StringBuilder();
+                foreach (var registration in club.PersRegistration)
+                {
+                    stringBuilder.AppendLine(registration.PrintInfo());
+                }
+
+                var clubName = new string(club.ClubName.Where(char.IsLetterOrDigit).ToArray());
+                var fileName = "Club " + clubName + ".txt";
+                int i = 2;
+                while (File.Exists(fileName))
+                {
+                    fileName = "Club " + clubName + i + ".txt";
+                    i++;
+                }
+
+                File.WriteAllText(@"C:\Users\Kasper\source\repos\StartListe\StartListe\" + fileName, stringBuilder.ToString());
+            }
         }
     }
 }

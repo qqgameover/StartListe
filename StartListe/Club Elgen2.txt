@@ -1,0 +1,1 @@
+Start number: "1268", name: "Lars Svenkerud", club: "Elgen", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M50-54"

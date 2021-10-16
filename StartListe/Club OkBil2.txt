@@ -1,0 +1,1 @@
+Start number: "90098", name: "Arne Bent Bjørge", club: "OkBil", nationality: "NOR", group: "25 km / Pulje 7 (seeding)", class: "M55-59"

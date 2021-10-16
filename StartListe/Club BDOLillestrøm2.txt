@@ -1,0 +1,1 @@
+Start number: "3379", name: "Thomas Frydenlund", club: "BDO Lillestrøm", nationality: "NOR", group: "54 km / Pulje 12 (åpen start)", class: "M30-34"

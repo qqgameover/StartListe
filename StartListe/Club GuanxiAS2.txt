@@ -1,0 +1,1 @@
+Start number: "31120", name: "Ruben E Riise", club: "Guanxi AS", nationality: "NOR", group: "25 km / Pulje 6 (seeding)", class: "M35-39"

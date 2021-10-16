@@ -1,0 +1,1 @@
+Start number: "85", name: "Morten Endreson", club: "Rælingen skiklubb", nationality: "NOR", group: "54 km / Pulje 1 (seeding)", class: "M45-49"

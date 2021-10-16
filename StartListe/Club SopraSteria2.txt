@@ -1,0 +1,1 @@
+Start number: "1229", name: "Kjell Rusti", club: "Sopra Steria", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M55-59"

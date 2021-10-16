@@ -1,0 +1,5 @@
+Start number: "657", name: "Preben H. Mo", club: "Heming", nationality: "NOR", group: "54 km / Pulje 3 (seeding)", class: "M45-49"
+Start number: "1014", name: "Torleif Arnesen", club: "Heming", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M50-54"
+Start number: "20083", name: "Thorleif Schjelderup", club: "Heming", nationality: "NOR", group: "25 km / Pulje 3 (seeding)", class: "M60-64"
+Start number: "11045", name: "Marius Grant", club: "Heming", nationality: "NOR", group: "25 km / Pulje 2 (seeding)", class: "M25-29"
+Start number: "780", name: "Ulf Stuge", club: "Heming", nationality: "NOR", group: "54 km / Pulje 3 (seeding)", class: "M60-64"

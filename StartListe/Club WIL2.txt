@@ -1,0 +1,1 @@
+Start number: "3311", name: "Frode Magnus Haukedal", club: "WIL", nationality: "NOR", group: "54 km / Pulje 12 (åpen start)", class: "M55-59"

@@ -1,0 +1,1 @@
+Start number: "20101", name: "Tore Haugen", club: "Bevisst Aktiv", nationality: "NOR", group: "25 km / Pulje 4 (seeding)", class: "M45-49"

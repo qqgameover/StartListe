@@ -1,0 +1,1 @@
+Start number: "1511", name: "Trond Holter", club: "Nesodden IF", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M50-54"

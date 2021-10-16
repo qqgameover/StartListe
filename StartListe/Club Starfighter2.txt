@@ -1,0 +1,1 @@
+Start number: "1845", name: "Helge Nysted", club: "Starfighter", nationality: "NOR", group: "54 km / Pulje 7 (seeding)", class: "M40-44"

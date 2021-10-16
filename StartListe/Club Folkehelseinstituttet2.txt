@@ -1,0 +1,1 @@
+Start number: "5753", name: "Per Magnus", club: "Folkehelseinstituttet", nationality: "NOR", group: "54 km / Pulje 20 (K60+M65)", class: "M65-69"

@@ -1,0 +1,1 @@
+Start number: "2875", name: "Anders Oulie", club: "Asker Triathlon", nationality: "NOR", group: "54 km / Pulje 10 (seeding)", class: "M50-54"

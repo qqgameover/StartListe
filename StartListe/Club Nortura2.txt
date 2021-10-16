@@ -1,0 +1,1 @@
+Start number: "50127", name: "Anders Johan Jamtli", club: "Nortura", nationality: "NOR", group: "", class: "M35-39"

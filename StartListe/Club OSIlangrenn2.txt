@@ -1,0 +1,1 @@
+Start number: "1071", name: "Håkon Andersen", club: "OSI langrenn", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M20-24"

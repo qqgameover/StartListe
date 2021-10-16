@@ -1,0 +1,1 @@
+Start number: "2579", name: "Espen Berg Grimsbo", club: "berggrimsbo", nationality: "NOR", group: "54 km / Pulje 9 (seeding)", class: "M30-34"

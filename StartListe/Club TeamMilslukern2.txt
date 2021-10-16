@@ -1,0 +1,2 @@
+Start number: "722", name: "Henrik Lund", club: "Team Milslukern", nationality: "NOR", group: "54 km / Pulje 3 (seeding)", class: "M30-34"
+Start number: "90097", name: "Marianne Bjerva", club: "Team Milslukern", nationality: "NOR", group: "25 km / Pulje 4 (seeding)", class: "K35-39"

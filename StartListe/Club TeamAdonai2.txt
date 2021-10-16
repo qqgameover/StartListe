@@ -1,0 +1,1 @@
+Start number: "40054", name: "Olav Veiteberg", club: "Team Adonai", nationality: "NOR", group: "25 km / Pulje 7 (seeding)", class: "M25-29"

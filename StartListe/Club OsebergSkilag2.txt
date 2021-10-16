@@ -1,0 +1,1 @@
+Start number: "1833", name: "Ketil Johansen", club: "Oseberg Skilag", nationality: "NOR", group: "54 km / Pulje 7 (seeding)", class: "M45-49"

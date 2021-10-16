@@ -1,0 +1,1 @@
+Start number: "196", name: "Erling Pettersen Vollan", club: "Høybråten og Stovner IL/Team Oslo Sportslager", nationality: "NOR", group: "54 km / Pulje 1 (seeding)", class: "M20-24"

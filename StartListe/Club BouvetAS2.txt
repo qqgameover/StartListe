@@ -1,0 +1,1 @@
+Start number: "1030", name: "Morten Hjerpseth", club: "Bouvet AS", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M45-49"

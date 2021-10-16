@@ -1,0 +1,1 @@
+Start number: "2532", name: "Thomas Edvardsen", club: "Lurketufsane", nationality: "NOR", group: "54 km / Pulje 9 (seeding)", class: "M40-44"

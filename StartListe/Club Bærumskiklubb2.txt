@@ -1,0 +1,1 @@
+Start number: "1052", name: "Jan Erik Johnsrud", club: "Bærum skiklubb", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M55-59"

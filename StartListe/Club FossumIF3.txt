@@ -1,0 +1,1 @@
+Start number: "50129", name: "Celine Beckstrøm", club: "Fossum if", nationality: "NOR", group: "", class: "K13-15"

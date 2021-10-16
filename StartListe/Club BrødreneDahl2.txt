@@ -1,0 +1,1 @@
+Start number: "768", name: "Per Einar Kalnæs", club: "Brødrene Dahl", nationality: "NOR", group: "54 km / Pulje 3 (seeding)", class: "M30-34"

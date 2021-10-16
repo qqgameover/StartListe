@@ -1,0 +1,1 @@
+Start number: "1072", name: "Amund Moen", club: "ÅF Advansia", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M40-44"

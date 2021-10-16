@@ -1,0 +1,1 @@
+Start number: "742", name: "Markuz Lindgren", club: "VRTKL AS", nationality: "SWE", group: "54 km / Pulje 3 (seeding)", class: "M35-39"

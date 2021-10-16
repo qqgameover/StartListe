@@ -1,0 +1,1 @@
+Start number: "1655", name: "Tor Sommer", club: "Christian Berner", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M60-64"

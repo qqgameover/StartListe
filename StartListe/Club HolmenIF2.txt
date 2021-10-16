@@ -1,0 +1,1 @@
+Start number: "21101", name: "Christian Falkenberg-Jensen", club: "Holmen IF", nationality: "NOR", group: "25 km / Pulje 4 (seeding)", class: "M40-44"

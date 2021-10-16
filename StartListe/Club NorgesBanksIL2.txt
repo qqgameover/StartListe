@@ -1,0 +1,1 @@
+Start number: "1066", name: "Ketil Johan Rakkestad", club: "Norges Banks IL", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M45-49"

@@ -1,0 +1,1 @@
+Start number: "1310", name: "Preben Rasch-Olsen", club: "Jardar", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M40-44"

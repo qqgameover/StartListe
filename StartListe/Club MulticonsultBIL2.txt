@@ -1,0 +1,2 @@
+Start number: "1595", name: "Per Øyvind Bonkerud", club: "Multiconsult BIL", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M35-39"
+Start number: "1354", name: "Anders Sivertsgård", club: "Multiconsult BIL", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M50-54"

@@ -1,0 +1,1 @@
+Start number: "2244", name: "Frode Abbedissen", club: "Team Klubbløs", nationality: "NOR", group: "54 km / Pulje 8 (seeding)", class: "M45-49"

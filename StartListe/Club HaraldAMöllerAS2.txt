@@ -1,0 +1,1 @@
+Start number: "30119", name: "Anders Nordby", club: "Harald A Möller AS", nationality: "NOR", group: "25 km / Pulje 5 (seeding)", class: "M40-44"

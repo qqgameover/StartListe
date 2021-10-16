@@ -1,0 +1,2 @@
+Start number: "343", name: "Tor Murvold", club: "Rustad IL", nationality: "NOR", group: "54 km / Pulje 2 (seeding + top 100 kvinner)", class: "M50-54"
+Start number: "90099", name: "Jan Erik Nilsen", club: "Rustad IL", nationality: "NOR", group: "25 km / Pulje 2 (seeding)", class: "M50-54"

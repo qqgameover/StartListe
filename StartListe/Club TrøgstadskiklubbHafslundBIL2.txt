@@ -1,0 +1,1 @@
+Start number: "1667", name: "Hans Kr Øfstaas", club: "Trøgstad skiklubb/Hafslund BIL", nationality: "NOR", group: "", class: "M50-54"

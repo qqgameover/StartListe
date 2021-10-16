@@ -1,0 +1,1 @@
+Start number: "2858", name: "Jon Tveiten", club: "norsk energi bil", nationality: "NOR", group: "54 km / Pulje 10 (seeding)", class: "M50-54"

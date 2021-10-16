@@ -1,0 +1,1 @@
+Start number: "771", name: "Tor Egil Sand", club: "Telenor BIL", nationality: "NOR", group: "54 km / Pulje 3 (seeding)", class: "M50-54"

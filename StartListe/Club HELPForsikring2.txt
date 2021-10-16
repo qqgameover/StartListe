@@ -1,0 +1,1 @@
+Start number: "2521", name: "Tore Strandbakken", club: "HELP Forsikring", nationality: "NOR", group: "54 km / Pulje 7 (seeding)", class: "M40-44"

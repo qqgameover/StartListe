@@ -1,0 +1,1 @@
+Start number: "1358", name: "Morten Nilsen", club: "SKF Norge", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M30-34"

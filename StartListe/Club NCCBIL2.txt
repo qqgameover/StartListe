@@ -1,0 +1,1 @@
+Start number: "90094", name: "Tore Tveitan", club: "NCC BIL", nationality: "NOR", group: "25 km / Pulje 4 (seeding)", class: "M50-54"

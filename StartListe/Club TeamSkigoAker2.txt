@@ -1,0 +1,1 @@
+Start number: "20098", name: "Kristin Blomberg Pedersen", club: "Team Skigo / Aker", nationality: "NOR", group: "25 km / Pulje 3 (seeding)", class: "K30-34"

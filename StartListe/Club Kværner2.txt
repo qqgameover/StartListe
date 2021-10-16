@@ -1,0 +1,1 @@
+Start number: "2445", name: "Annette Jahr", club: "Kværner", nationality: "NOR", group: "54 km / Pulje 9 (seeding)", class: "K30-34"

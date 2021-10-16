@@ -1,0 +1,1 @@
+Start number: "1078", name: "Ole Edvard Gjerstadberget", club: "Slåstad i.l.", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M60-64"

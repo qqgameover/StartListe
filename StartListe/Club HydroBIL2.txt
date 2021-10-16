@@ -1,0 +1,1 @@
+Start number: "770", name: "Per Erik Austad", club: "Hydro BIL", nationality: "NOR", group: "54 km / Pulje 3 (seeding)", class: "M45-49"

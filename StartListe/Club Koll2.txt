@@ -1,0 +1,1 @@
+Start number: "1061", name: "Thor Bendik Weider", club: "Koll", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M55-59"

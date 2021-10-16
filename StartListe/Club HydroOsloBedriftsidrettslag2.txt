@@ -1,0 +1,1 @@
+Start number: "1347", name: "Jonathan Sørbye", club: "Hydro Oslo Bedriftsidrettslag", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M30-34"

@@ -1,0 +1,1 @@
+Start number: "1660", name: "Espen Skrimstad", club: "Storebrand Sport", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "M45-49"

@@ -1,0 +1,1 @@
+Start number: "500", name: "Aage Hagen", club: "Asker Skiklubb / Team Santander 2", nationality: "NOR", group: "54 km / Pulje 2 (seeding + top 100 kvinner)", class: "M45-49"

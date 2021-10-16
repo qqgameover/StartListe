@@ -1,0 +1,1 @@
+Start number: "1654", name: "Trude Flatås", club: "Ullern trening", nationality: "NOR", group: "54 km / Pulje 6 (seeding)", class: "K40-44"

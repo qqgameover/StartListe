@@ -1,0 +1,1 @@
+Start number: "50115", name: "Mats Hansteen", club: "VUL ski", nationality: "NOR", group: "25 km / Pulje 8 (åpen start)", class: "M13-15"

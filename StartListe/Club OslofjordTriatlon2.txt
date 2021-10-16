@@ -1,0 +1,1 @@
+Start number: "2290", name: "Ingvild Udenæs", club: "Oslofjord Triatlon", nationality: "NOR", group: "", class: "K35-39"

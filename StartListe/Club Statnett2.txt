@@ -1,0 +1,1 @@
+Start number: "767", name: "Øystein Pettersen", club: "Statnett", nationality: "NOR", group: "54 km / Pulje 3 (seeding)", class: "M35-39"

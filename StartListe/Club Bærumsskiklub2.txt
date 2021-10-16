@@ -1,0 +1,1 @@
+Start number: "193", name: "Magnus Drivenes", club: "Bærums skiklub", nationality: "NOR", group: "54 km / Pulje 1 (seeding)", class: "M20-24"

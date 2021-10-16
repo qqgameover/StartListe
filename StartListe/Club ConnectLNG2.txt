@@ -1,0 +1,2 @@
+Start number: "", name: "David Mikal Knutsen", club: "Connect LNG", nationality: "NOR", group: "", class: "M30-34"
+Start number: "1357", name: "David Mikal Knutsen", club: "Connect LNG", nationality: "NOR", group: "", class: "M30-34"

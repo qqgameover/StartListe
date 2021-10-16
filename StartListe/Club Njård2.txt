@@ -1,0 +1,2 @@
+Start number: "1283", name: "Simen Skou", club: "Njård", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M45-49"
+Start number: "50113", name: "Mads Røskeland", club: "Njård", nationality: "NOR", group: "25 km / Pulje 8 (åpen start)", class: "M13-15"

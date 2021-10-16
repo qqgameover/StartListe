@@ -1,0 +1,1 @@
+Start number: "3377", name: "Espen Bratlie", club: "Nabolaget FC", nationality: "NOR", group: "54 km / Pulje 14 (åpen start)", class: "M60-64"

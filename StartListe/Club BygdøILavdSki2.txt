@@ -1,0 +1,2 @@
+Start number: "2510", name: "Olav Gjervan", club: "Bygdø IL avd Ski", nationality: "NOR", group: "54 km / Pulje 9 (seeding)", class: "M50-54"
+Start number: "2511", name: "Hanne Cecilie Winther-Larsen", club: "Bygdø IL avd Ski", nationality: "NOR", group: "54 km / Pulje 9 (seeding)", class: "K50-54"

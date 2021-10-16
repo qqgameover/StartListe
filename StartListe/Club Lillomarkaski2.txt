@@ -1,0 +1,1 @@
+Start number: "30120", name: "Bernt Breivik", club: "Lillomarka ski", nationality: "NOR", group: "25 km / Pulje 5 (seeding)", class: "M55-59"

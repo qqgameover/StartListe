@@ -27,9 +27,9 @@ namespace StartListe
             Classen = fields[5];
         }
 
-        public void PrintInfo()
+        public string PrintInfo()
         {
-            Console.WriteLine($"Start number: {StartNum}, name: {Name}, club: {Club}, nationality: {Nationality}, group: {Group}, class: {Classen}");
+            return ($"Start number: {StartNum}, name: {Name}, club: {Club}, nationality: {Nationality}, group: {Group}, class: {Classen}");
         }
     }
 }

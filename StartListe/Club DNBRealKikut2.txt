@@ -1,0 +1,1 @@
+Start number: "1075", name: "Andreas Skaugen", club: "DNB Real Kikut", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M45-49"

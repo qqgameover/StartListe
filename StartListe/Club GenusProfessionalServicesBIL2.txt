@@ -1,0 +1,1 @@
+Start number: "1009", name: "Kristian Mella", club: "Genus Professional Services BIL", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M35-39"

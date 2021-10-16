@@ -1,0 +1,1 @@
+Start number: "11043", name: "Rolf Normann", club: "Heming IL", nationality: "NOR", group: "25 km / Pulje 2 (seeding)", class: "M50-54"

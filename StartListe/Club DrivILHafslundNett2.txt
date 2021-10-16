@@ -1,0 +1,1 @@
+Start number: "2515", name: "Kjell-Olav Bjerknes", club: "Driv IL / Hafslund Nett", nationality: "NOR", group: "54 km / Pulje 9 (seeding)", class: "M40-44"

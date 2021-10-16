@@ -1,0 +1,1 @@
+Start number: "1950", name: "Rolf Skatteboe", club: "KSAT BIL", nationality: "NOR", group: "54 km / Pulje 7 (seeding)", class: "M55-59"

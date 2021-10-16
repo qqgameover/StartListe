@@ -1,0 +1,1 @@
+Start number: "20077", name: "Ida Karoline Løvik", club: "Ernst & Young", nationality: "NOR", group: "25 km / Pulje 3 (seeding)", class: "K25-29"

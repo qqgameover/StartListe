@@ -1,0 +1,1 @@
+Start number: "", name: "Christer Rasmussen", club: "Nordea Bank Norge", nationality: "NOR", group: "", class: "M30-34"

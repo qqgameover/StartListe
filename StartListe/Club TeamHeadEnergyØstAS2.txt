@@ -1,0 +1,1 @@
+Start number: "951", name: "Kjetil Utrimark", club: "Team Head Energy Øst AS", nationality: "NOR", group: "54 km / Pulje 4 (seeding)", class: "M35-39"

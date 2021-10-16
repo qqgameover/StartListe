@@ -1,0 +1,1 @@
+Start number: "", name: "Marie Nygård Gulsvik", club: "Uno-X", nationality: "NOR", group: "", class: "K35-39"

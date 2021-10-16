@@ -1,0 +1,1 @@
+Start number: "1231", name: "Gerhard G. Bergh", club: "FÅK", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M50-54"

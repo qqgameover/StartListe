@@ -1,0 +1,1 @@
+Start number: "1348", name: "Geir Gotteberg", club: "Lundin Norway AS", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M35-39"

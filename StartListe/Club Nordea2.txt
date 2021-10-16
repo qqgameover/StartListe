@@ -1,0 +1,1 @@
+Start number: "1278", name: "Brede Havneraas", club: "Nordea", nationality: "NOR", group: "54 km / Pulje 5 (seeding)", class: "M60-64"

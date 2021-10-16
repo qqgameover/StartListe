@@ -1,0 +1,1 @@
+Start number: "2277", name: "Runar Ytrehus", club: "Bislet Basket", nationality: "NOR", group: "54 km / Pulje 8 (seeding)", class: "M30-34"

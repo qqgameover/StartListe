@@ -1,0 +1,1 @@
+Start number: "2409", name: "Ingar Woll", club: "Lørenskog Skiklubb", nationality: "NOR", group: "54 km / Pulje 9 (seeding)", class: "M45-49"

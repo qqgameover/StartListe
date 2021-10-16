@@ -1,0 +1,1 @@
+Start number: "10043", name: "Pål Golberg", club: "Gol IL", nationality: "NOR", group: "25 km / Pulje 1 (seeding)", class: "M25-29"
